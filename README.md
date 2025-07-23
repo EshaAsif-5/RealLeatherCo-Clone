@@ -10,7 +10,7 @@ https://httpsrealethercoclone.netlify.app/
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 - Font Awesome (for icons)
 - Responsive design (media queries)
   
